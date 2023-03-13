@@ -1,4 +1,4 @@
-## Hi there 👋
+![img](https://sjtu-robomaster-team.github.io//assets/img/posts/Dragon.gif)
 
 <!--
 
